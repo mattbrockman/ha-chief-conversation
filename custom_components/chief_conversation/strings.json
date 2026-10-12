@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Chief",
+        "description": "Add the Chief conversation agent. There is nothing to fill in."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Chief is already set up."
+    }
+  }
+}
